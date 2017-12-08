@@ -1,11 +1,11 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Hexo
-language: en
+title: mud
+subtitle: "no"
+description: "fast"
+author: He852100
+language: cn
 timezone: UTC
 
-url: https://hexo.io
+url: https://objective-ramanujan-7d0a13.netlify.com/
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
